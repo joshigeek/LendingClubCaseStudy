@@ -1,4 +1,4 @@
-## LendingClusCaseStudy
+## LendingClub - CaseStudy
 
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
 
